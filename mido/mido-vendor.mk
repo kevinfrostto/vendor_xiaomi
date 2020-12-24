@@ -42,6 +42,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mido/proprietary/vendor/etc/camera/s5k5e8_sunny_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k5e8_sunny_chromatix.xml \
     vendor/xiaomi/mido/proprietary/etc/init/wfdservice.rc:$(TARGET_COPY_OUT_SYSTEM)/etc/init/wfdservice.rc \
     vendor/xiaomi/mido/proprietary/etc/permissions/com.qti.snapdragon.sdk.display.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/com.qti.snapdragon.sdk.display.xml \
+    vendor/xiaomi/mido/proprietary/etc/permissions/android.hardware.consumerir.xml:system/etc/permissions/android.hardware.consumerir.xml \
     vendor/xiaomi/mido/proprietary/etc/wfdconfig.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/wfdconfig.xml \
     vendor/xiaomi/mido/proprietary/etc/wfdconfigsink.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/wfdconfigsink.xml \
     vendor/xiaomi/mido/proprietary/framework/com.qti.snapdragon.sdk.display.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/com.qti.snapdragon.sdk.display.jar \
